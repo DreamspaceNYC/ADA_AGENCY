@@ -1,0 +1,12 @@
+{
+  "model_aliases": {
+    "chat": "openrouter/openai/gpt-4o",
+    "claude": "openrouter/anthropic/claude-3-opus",
+    "llama": "openrouter/meta-llama/llama-3-70b-instruct",
+    "mixtral": "openrouter/mistralai/mixtral-8x7b"
+  },
+  "default_tag": "clean_meme",
+  "watch_delay": 2,
+  "log_file": "ada_memory.log"
+}
+

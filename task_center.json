@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    "Launch ADA to run automatically on boot",
+    "Build a whisper-triggered transcription agent",
+    "Build a whisper-triggered transcription agent"
+  ],
+  "ideas": [
+    "Build a video fingerprint scrubber agent",
+    "Make ADA fork itself into multiple sub-personas",
+    "Make ADA fork itself into multiple sub-personas"
+  ],
+  "agents": [
+    "v.agent",
+    "m.agent",
+    "d.agent"
+  ]
+}
